@@ -5,7 +5,7 @@
 
 <div align="center">
   <a  href="https://linkedin.com/in/onyemaechi">
-    <img align="center" src="https://media.giphy.com/media/Uh1ZPq7mA7xa8/giphy.gif" />
+    <img align="center" src="https://media.giphy.com/media/Uh1ZPq7mA7xa8/giphy.gif" width="400" height="400" />
   </a>
 </div>
 
