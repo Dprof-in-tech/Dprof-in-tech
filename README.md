@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Isaac+Onyemaechi+Ugwu+%F0%9F%91%8B;👨‍💻+++Full-Stack+Developer;Software+Engineer;WEB3+Educator;Freelancer;Weird" alt="Headline" />
 </div>
 
-<div align="center">
+<div align="center" size="cover">
   <a  href="https://linkedin.com/in/onyemaechi">
     <img align="center" src="https://media.licdn.com/dms/image/D4E03AQF1VijLgeDI5Q/profile-displayphoto-shrink_200_200/0/1692250008162?e=1701302400&v=beta&t=xbxsnhOHExfkgndDe4KnG8vqTZQQ7kunKiubpI5xJKQ" />
   </a>
@@ -13,9 +13,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dprof-in-tech&label=Profile%20views&color=0e75b6&style=flat" alt="Isaac" /> </p>
 
-[![Beacons.ai Profile](https://img.shields.io/badge/About_Me-Isaacugwu-9cf?style=for-the-badge&logo=beacons&color=blue)](https://beacons.ai/dprof-in-tech)
+[![Beacons.ai Profile](https://img.shields.io/badge/About_Me-Isaac+ugwu-9cf?style=for-the-badge&logo=beacons&color=blue)](https://beacons.ai/dprof-in-tech)
 
-<p align="left"> <a href="https://twitter.com/dprof_in_tech" target="blank"><img src="https://img.shields.io/twitter/follow/your_twitter_handle?logo=twitter&style=for-the-badge" alt="Isaac" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dprof_in_tech" target="blank"><img src="https://img.shields.io/twitter/follow/Dprof_in_Tech?logo=twitter&style=for-the-badge" alt="Isaac" /></a> </p>
 
 <br>
 <div align="right">
