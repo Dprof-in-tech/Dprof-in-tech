@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Its the Prof in Tech](https://github.com/Dprof-in-tech/Dprof-in-tech/assets/116242877/8c4fd559-109c-423c-aa82-c33208cb96ce)
+
 
 <!--
 **Dprof-in-tech/Dprof-in-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
