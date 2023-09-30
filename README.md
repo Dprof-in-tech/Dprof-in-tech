@@ -1,9 +1,9 @@
 <h1 align="center"> Bawo ni o se wa!!. 👨‍💻 </h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Isaac+Onyemaechi+Ugwu+%F0%9F%91%8B;👨‍💻+++Full-Stack+Developer;Software+Engineer;WEB3+Educator;Freelancer;Weird" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Dprof-in-Tech+%F0%9F%91%8B;👨‍💻+++Full-Stack+Developer;Software+Engineer;WEB3+Educator;Freelancer;Weird" alt="Headline" />
 </div>
 
-<div align="center" style="width: 700px; height: 300px; overflow: hidden;">
+<div align="center" style="width: 500px; height: 300px; overflow: hidden;">
   <a  href="https://linkedin.com/in/onyemaechi">
     <img align="center" src="https://media.licdn.com/dms/image/D4E03AQF1VijLgeDI5Q/profile-displayphoto-shrink_200_200/0/1692250008162?e=1701302400&v=beta&t=xbxsnhOHExfkgndDe4KnG8vqTZQQ7kunKiubpI5xJKQ" style="object-fit: cover; width: 100%; height: 100%;" />
   </a>
