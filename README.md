@@ -5,7 +5,7 @@
 
 <div align="center" style="width: 500px; height: 300px; overflow: hidden;">
   <a  href="https://linkedin.com/in/onyemaechi">
-    <img align="center" src="https://media.licdn.com/dms/image/D4E03AQF1VijLgeDI5Q/profile-displayphoto-shrink_200_200/0/1692250008162?e=1701302400&v=beta&t=xbxsnhOHExfkgndDe4KnG8vqTZQQ7kunKiubpI5xJKQ" style="object-fit: cover; width: 100%; height: 100%;" />
+    <img align="center" src="https://media.licdn.com/dms/image/D4E03AQF1VijLgeDI5Q/profile-displayphoto-shrink_500_200/0/1692250008162?e=1701302400&v=beta&t=xbxsnhOHExfkgndDe4KnG8vqTZQQ7kunKiubpI5xJKQ" style="object-fit: cover; width: 100%; height: 100%;" />
   </a>
 </div>
 
@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dprof-in-tech&label=Profile%20views&color=0e75b6&style=flat" alt="Isaac" /> </p>
 
-[![Beacons.ai Profile](https://img.shields.io/badge/About_Me-Dprof-in-Tech-9cf?style=for-the-badge&logo=beacons&color=blue)](https://beacons.ai/dprof-in-tech)
+[![Beacons.ai Profile](https://img.shields.io/badge/About_Me-Isaac-9cf?style=for-the-badge&logo=beacons&color=blue)](https://beacons.ai/dprof-in-tech)
 
 <p align="left"> <a href="https://twitter.com/dprof_in_tech" target="blank"><img src="https://img.shields.io/twitter/follow/Dprof_in_Tech?logo=twitter&style=for-the-badge" alt="Isaac" /></a> </p>
 
