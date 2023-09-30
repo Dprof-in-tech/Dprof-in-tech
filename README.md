@@ -3,9 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Dprof-in-Tech+%F0%9F%91%8B;👨‍💻+++Full-Stack+Developer;Software+Engineer;WEB3+Educator;Freelancer;Weird" alt="Headline" />
 </div>
 
-<div align="center" style="width: 500px; height: 300px; overflow: hidden;">
+<div align="center">
   <a  href="https://linkedin.com/in/onyemaechi">
-    <img align="center" src="https://media.licdn.com/dms/image/D4E03AQF1VijLgeDI5Q/profile-displayphoto-shrink_500_200/0/1692250008162?e=1701302400&v=beta&t=xbxsnhOHExfkgndDe4KnG8vqTZQQ7kunKiubpI5xJKQ" style="object-fit: cover; width: 100%; height: 100%;" />
+    <img align="center" src="https://media.giphy.com/media/Uh1ZPq7mA7xa8/giphy.gif" />
   </a>
 </div>
 
@@ -45,7 +45,24 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
-  <!-- Add other programming languages as needed -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="shell" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Tools:</h3>
@@ -53,7 +70,18 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
-  <!-- Add other tools as needed -->
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
+  </a>
+  <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/features/codespaces" target="_blank" rel="noreferrer">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="codespaces" width="40" height="40"/>
+  </a>
 </p>
 
 <p align="left">
