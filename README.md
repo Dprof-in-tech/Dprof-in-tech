@@ -1,11 +1,11 @@
 <h1 align="center"> Bawo ni o se wa!!. 👨‍💻 </h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Dprof-in-Tech+%F0%9F%91%8B;👨‍💻+++Full-Stack+Developer;Software+Engineer;WEB3+Educator;Freelancer;Weird" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Dprof-in-Tech+%F0%9F%91%8B;👨‍💻+++Full-Stack+PHP+Developer;Software+Engineer+in+Training;WEB3+Educator+and+Writer;Freelancer;Weird" alt="Headline" />
 </div>
 
 <div align="center">
   <a  href="https://linkedin.com/in/onyemaechi">
-    <img align="center" src="https://media.giphy.com/media/Uh1ZPq7mA7xa8/giphy.gif" width="800" height="600" />
+    <img align="center" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="800" height="600" />
   </a>
 </div>
 
