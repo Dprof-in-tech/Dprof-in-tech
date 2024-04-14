@@ -6,7 +6,8 @@
   <div align="start">
     
   ## Hello, I'm Isaac
-  I'm weird and diligent. I build beautiful interfaces and make you fall in love with Tech
+  I'm weird and a Genz. Just your overpowered Frontend Dev who writes Backend.
+  PS: I do hard things at ALX
 
   ### Catch up with me on:
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/Onyemaechi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/i_amprof) 
