@@ -1,113 +1,33 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Dprof-in-Tech+%F0%9F%91%8B;👨‍💻+++Full-Stack+PHP+Developer;Software+Engineer+in+Training;WEB3+Educator+and+Writer;Freelancer;Weird" alt="Headline" />
+<div>
+  <div align="center">
+    <img src="https://github.com/Dprof-in-tech/Dprof-in-tech/assets/116242877/6a987770-ba0a-48d0-bfec-a47526b8c266" alt="Header image" style="width: 100%; height: auto;"/>
+  </div>
+  <br/>
+  <div align="start">
+    
+  ## Hello, I'm Isaac
+  I'm weird and diligent. I build beautiful interfaces and make you fall in love with Tech
+
+  ### Catch up with me on:
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/Onyemaechi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/i_amprof) 
+  [![](https://visitcount.itsvg.in/api?id=dprof-in-tech&icon=0&color=0)](https://visitcount.itsvg.in)
+  </div>
+  
+  # 💻 What I Know:
+ ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  # 📊 GitHub Stats:
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=dprof-in-tech&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=dprof-in-tech&theme=great-gatsby&hide_border=false" alt="GitHub Streak Stats"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dprof-in-tech&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"></td>
+  </tr>
+</table>
+
+
+  ## 🏆 GitHub Trophies
+  <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=dprof-in-tech&theme=nord&no-frame=false&no-bg=true&margin-w=4" style="width: 100%;" alt="Trophies">
 </div>
 
-<div align="center">
-  <a  href="https://linkedin.com/in/onyemaechi">
-    <img align="center" src="[https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif](https://designerapp.officeapps.live.com/designerapp/document.ashx?path=/2d5d4c46-5299-45b9-b4e1-0c6c99681519/DallEGeneratedImages/dalle-9d24c1a7-8aef-4c4e-a487-ae2ef06f806b0251689252278221382300.jpg&dcHint=FranceCentral&fileToken=db57ee42-2fc9-46e2-a609-0959b764b1d1)" width="1200" height="600" />
-  </a>
 </div>
-
-<br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dprof-in-tech&label=Profile%20views&color=0e75b6&style=flat" alt="Isaac" /> </p>
-
-[![Beacons.ai Profile](https://img.shields.io/badge/About_Me-Isaac-9cf?style=for-the-badge&logo=beacons&color=blue)](https://beacons.ai/dprof-in-tech)
-
-<p align="left"> <a href="https://twitter.com/dprof_in_tech" target="blank"><img src="https://img.shields.io/twitter/follow/Dprof_in_Tech?logo=twitter&style=for-the-badge" alt="Isaac" /></a> </p>
-
-<br>
-<div align="right">
-  <img align="right" src="https://user-images.githubusercontent.com/your_image.gif" width="200px"/>
-</div>
-<br>
-
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About me**
-
-- 🔭 I’m currently learning **C Programming**
-- 💬 Ask me about **Shell, Linux and C programming Language**
-- ⚡ Fun fact: **There are about 2,500 programming languages.**
-- 📫 My Email: **amaechiisaac450@gmail.com**
-
- <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dprof-in-tech&theme=algolia" alt="Isaac" />
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/dprof_in_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Your Name" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/onyemaechi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your Name" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="shell" width="40" height="40"/>
-  </a>
-</p>
-
-<h3 align="left">Tools:</h3>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
-  </a>
-  <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/features/codespaces" target="_blank" rel="noreferrer">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="codespaces" width="40" height="40"/>
-  </a>
-</p>
-
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dprof-in-tech&theme=algolia&show_icons=true&locale=en&layout=compact" alt="Your Name" />
-</p>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dprof-in-tech&theme=algolia&show_icons=true&count_private=true&hide_title=true)
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=dprof-in-tech&theme=algolia&column=3&row=2&margin-w=15&margin-h=15&no-bg=false" alt="Isaac's Trophies" />
-</p>
-
-[GitHub : dprof-in-tech](https://github.com/dprof-in-tech)
-
-
-
-<!--
-**Dprof-in-tech/Dprof-in-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
