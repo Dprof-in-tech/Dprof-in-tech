@@ -8,8 +8,10 @@
   ## Hello, I'm Isaac
   Frontend @theGarage
 
+  check out [![Onyemaechi.cv]()](https://onyemaechi.cv)
+
   ### Catch up with me on:
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/Onyemaechi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/i_amprof) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Onyemaechi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/i_amprof) 
   [![](https://visitcount.itsvg.in/api?id=dprof-in-tech&icon=0&color=0)](https://visitcount.itsvg.in)
   </div>
   
